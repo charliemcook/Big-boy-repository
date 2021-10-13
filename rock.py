@@ -16,6 +16,8 @@
    ],
    "source": [
     "print (\"Can you smell what the rock is cooking\")"
+    "print (\"I can indeed.\")"
+    "#Hehehe"
    ]
   },
   {
